@@ -2,11 +2,13 @@
 title: "Project Four"
 summary: "Lorem ipsum dolor sit amet"
 date: "Mar 15 2022"
-draft: false
+draft: true
 tags:
 - React
 - Javascript
 - StyleX
+demoUrl: https://astro-sphere-demo.vercel.app
+repoUrl: https://github.com/h-off-nung/core-banking-simulator
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
