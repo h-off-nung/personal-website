@@ -37,7 +37,7 @@ repoUrl: https://github.com/h-off-nung/core-banking-simulator
 
 ### Why This Project?
 
-I developed The Core Banking Simulator to deepen my understanding of secure software development and database management. This project reflects my commitment to writing clean, maintainable code and my ability to build complex systems that simulate real-world applications. Whether it's handling sensitive user data or implementing intricate business logic, Bobrov Service demonstrates my proficiency in Java and database security.
+I developed The Core Banking Simulator to deepen my understanding of secure software development and database management. This project reflects my commitment to writing clean, maintainable code and my ability to build complex systems that simulate real-world applications. Whether it's handling sensitive user data or implementing intricate business logic, The Core Banking Simulator demonstrates my proficiency in Java and database security.
 
 ### Explore More
 
