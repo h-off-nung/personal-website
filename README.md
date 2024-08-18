@@ -1,6 +1,6 @@
-My personal website that is astatic, minimalist, lightweight, lightning fast portfolio and blog theme.
+## 🏠 Personal website
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+Welcome to my personal website! It is a static, minimal, lightweight, lightning fast, and accessible portfolio and blog theme. It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
 
 ## 📋 Features
 
